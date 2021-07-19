@@ -1,7 +1,7 @@
 {
   "vendor": "vtex",
   "name": "b2b-approved-message",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "title": "B2B Approved Message",
   "description": "App to display if logged user is approved to buy in supplier",
   "builders": {
